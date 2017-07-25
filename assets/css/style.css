@@ -1,0 +1,55 @@
+@font-face {
+	font-family: 'Romanesco', cursive;
+}
+
+.container-fluid {
+	background: url(https://cdn.vox-cdn.com/uploads/chorus_image/image/49958705/game-of-thrones-poster_85627-1920x1200.0.jpg);
+	height: 560px;
+}
+ .thumbnail {
+ 	width: 428px;
+ 	height: 375px;
+ }
+
+ h2 {
+ 	text-align: center;
+ 	font-family: 'Romanesco', cursive;
+ }
+
+ img {
+ 	width: auto;
+ 	height: 200px;
+ }
+
+ .header {
+ 	text-align: center;
+ 	font-family: 'Romanesco', cursive;
+ }
+
+ .btn {
+ 	margin-top: 4px;
+ 	margin-left: 160px;
+ }
+
+.answerChoice {
+    margin-bottom: 20px;
+    background-color: #69D2E7;
+    border-radius: 5px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Verdana, Arial, Sans-Serif;
+    opacity: 0.5;
+    padding: 5px;
+}
+
+.row{
+	color: white;
+}
+
+.results {
+	color: white;
+}
+
+.jumbotron {
+	background: url(https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjzrvXx1qTVAhWI6yYKHTmNCwYQjRwIBw&url=http%3A%2F%2Fwww.wallpapers-web.com%2Fgame-of-thrones-wallpapers.html&psig=AFQjCNFxQZpFg_tx3IPi6ESCg_oJZ07WIQ&ust=1501080449892037);
+}
